@@ -24,8 +24,5 @@ Generate an execution plan.
 ### `terraform apply`
 
 
-
-
-
 # OUTPUT.TF
 output aws loadbalancer dns name
